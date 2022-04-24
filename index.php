@@ -1,20 +1,20 @@
 <title>Hacked by KosameAmegai</title>
 <link href="https://fonts.googleapis.com/css?family=Inconsolata&display=swap" rel="stylesheet">
 <meta property="og:title" content="Hacked by KosameAmegai">
-<meta name="description" content="just a girl who is dreaming">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<meta property="og:description" content="just a girl who is dreaming">
-<meta property="og:image" content="https://securecdn.pymnts.com/wp-content/uploads/2019/07/Crypto.Hack_.JapanRemixpoint-1000x600.jpg">
-<meta name="robots" content="index, follow"> 
+<meta name="description" content="don't kill my idol!">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="og:description" content="don't kill my idol!">
+<meta property="og:image" content="https://yurivn.net/wp/wp-content/uploads/2019/07/Oshibe-to-Meshibe-to-Yoru-no-Chouchou.jpg">
+  <style type='text/css'>body,a:hover{cursor:url(https://ani.cursors-4u.net/symbols/sym-8/sym752.cur),progress!important;}</style>
+  <style type="text/css">img{opacity:0.5;-webkit-transition:all 250ms ease;-moz-transition:all 250ms ease;-o-transition:all 250ms ease;transition:all 250ms ease;}img:hover{opacity:1;}textarea{resize:none;}</style>
+
+</head> 
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;' bgcolor="black" > 
+<table width=100% height=100%><td align=center>
 <link rel="SHORTCUT ICON" href="https://www.pinclipart.com/picdir/big/363-3638329_japanese-flag-clipart.png"/> 
-<meta name="googlebot" content="index,follow" /> 
- <meta name="robots" content="all" /> 
-  <meta name="robots schedule" content="auto" /> 
-  <meta name="distribution" content="global" /> 
-  <base target='_blank'/> 
+
 
 <style type='text/css'>body,a:hover{cursor:url(https://cur.cursors-4u.net/symbols/sym-1/sym46.cur),progress!important;}</style>
-
 
 
 <table width=100% height=100%><td align=center>
@@ -142,5 +142,4 @@
 
 
 </html>
-
 
